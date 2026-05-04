@@ -32,9 +32,13 @@
 
 ### ⚡️ Where to find me
 
-<a href="https://www.linkedin.com/in/pradeep-yadav-b14a35229/" target="_blank"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/pradeep-yadav-b14a35229/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"/>
+</a>
 
----
+<a href="https://pradeep-y.github.io/Pradeep_Yadav/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit?style=for-the-badge&logo=google-chrome&logoColor=white&color=black"/>
+</a>
 
 ### 📊 GitHub Stats
 
